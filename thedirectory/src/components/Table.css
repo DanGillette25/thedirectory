@@ -1,0 +1,13 @@
+.sort {
+  background-color: white;
+  color: white;
+  border: none;
+}
+
+.sort:hover {
+  background-color: blue;
+}
+
+table {
+  text-align: center;
+}
