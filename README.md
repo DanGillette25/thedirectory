@@ -30,6 +30,8 @@
   ## Usage
     
   Hover over any of the table fields for the "Sort" button to appear.  Click on the "Sort" button to sort alphabetically by email.  You can also search for employees in the search bar.
+  
+  [![Screenshot](https://raw.githubusercontent.com/DanGillette25/thedirectory/main/screenshot1.JPG)
 
   ## Contribution 
     
